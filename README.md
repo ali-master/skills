@@ -25,6 +25,14 @@ pnpm dlx skills add ali-master/skills # pnpm
 bunx skills add ali-master/skills     # bun
 ```
 
+Want only one skill instead of the whole catalog? Pass `--skill <slug>`:
+
+```sh
+npx skills add ali-master/skills --skill orpc-getting-started
+```
+
+See [`docs/install.md`](docs/install.md) for single-skill installs, nested skills, batch installs, and update/remove workflows.
+
 Your agent discovers each skill on demand and only loads the matching `SKILL.md` when the task requires it.
 
 ## 🚀 Start here
