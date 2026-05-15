@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Skills orbit grid logo</title>
+  <desc id="desc">A grid of reusable skills connected by an orbital path.</desc>
+  <defs>
+    <linearGradient id="bg" x1="64" y1="56" x2="448" y2="456" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A22"/>
+      <stop offset=".55" stop-color="#142036"/>
+      <stop offset="1" stop-color="#20170C"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <path d="M126 266c0-85 59-154 132-154s132 69 132 154-59 154-132 154-132-69-132-154Z" fill="none" stroke="#FFFFFF" stroke-opacity=".16" stroke-width="3"/>
+  <path d="M96 256c44-78 276-120 330-35 48 75-84 167-228 145" fill="none" stroke="#4EF0D2" stroke-width="16" stroke-linecap="round"/>
+  <g fill="#F8FAFC">
+    <rect x="148" y="148" width="74" height="74" rx="18"/>
+    <rect x="254" y="148" width="74" height="74" rx="18"/>
+    <rect x="148" y="254" width="74" height="74" rx="18"/>
+    <rect x="254" y="254" width="74" height="74" rx="18"/>
+  </g>
+  <g fill="#111827">
+    <rect x="169" y="177" width="32" height="10" rx="5"/>
+    <rect x="275" y="177" width="32" height="10" rx="5"/>
+    <rect x="169" y="283" width="32" height="10" rx="5"/>
+    <rect x="275" y="283" width="32" height="10" rx="5"/>
+  </g>
+  <circle cx="390" cy="221" r="24" fill="#FFB84D"/>
+</svg>

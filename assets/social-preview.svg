@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Skills social preview</title>
+  <desc id="desc">Social preview for the Skills repository, featuring a liquid glass logo and concise project positioning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071016"/>
+      <stop offset=".48" stop-color="#101C30"/>
+      <stop offset="1" stop-color="#172016"/>
+    </linearGradient>
+    <radialGradient id="mint" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 108) rotate(52) scale(360 240)">
+      <stop stop-color="#4EF0D2" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#4EF0D2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gold" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1050 540) rotate(-128) scale(420 280)">
+      <stop stop-color="#FFB84D" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#FFB84D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="113" y1="119" x2="381" y2="459" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity=".72"/>
+      <stop offset=".38" stop-color="#B8F7FF" stop-opacity=".26"/>
+      <stop offset=".72" stop-color="#C8D7FF" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".38"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="128" y1="116" x2="382" y2="456" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity=".9"/>
+      <stop offset=".5" stop-color="#86F7FF" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".62"/>
+    </linearGradient>
+    <filter id="shadow" x="56" y="82" width="432" height="432" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="26" stdDeviation="28" flood-color="#000000" flood-opacity=".38"/>
+      <feDropShadow dx="0" dy="-8" stdDeviation="18" flood-color="#8EF8FF" flood-opacity=".12"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="640" rx="0" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#mint)"/>
+  <rect width="1280" height="640" fill="url(#gold)"/>
+  <g opacity=".18" stroke="#FFFFFF">
+    <path d="M64 96h1152M64 192h1152M64 288h1152M64 384h1152M64 480h1152M64 576h1152"/>
+    <path d="M128 64v512M256 64v512M384 64v512M512 64v512M640 64v512M768 64v512M896 64v512M1024 64v512M1152 64v512"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="118" y="116" width="288" height="360" rx="74" fill="url(#glass)" stroke="url(#edge)" stroke-width="3"/>
+    <path d="M151 151c18-18 44-28 77-28h75c-62 24-112 68-149 132-10-38-11-73-3-104Z" fill="#FFFFFF" opacity=".22"/>
+    <path d="M174 370c48 35 104 47 169 34-27 37-61 56-102 56h-28c-27 0-47-10-61-30-11-16-4-39 22-60Z" fill="#FFFFFF" opacity=".16"/>
+    <path d="M190 238h144M190 296h144M190 354h144" stroke="#EAFDFF" stroke-width="28" stroke-linecap="round" opacity=".82"/>
+    <path d="M190 238h144M190 296h144M190 354h144" stroke="#101B2B" stroke-width="12" stroke-linecap="round" opacity=".28"/>
+    <path d="M200 238h124M200 296h124M200 354h124" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+    <circle cx="184" cy="238" r="20" fill="#38E8D4"/>
+    <circle cx="340" cy="296" r="20" fill="#FFB85C"/>
+    <circle cx="184" cy="354" r="20" fill="#9DB7FF"/>
+    <path d="M208 238c66 0 48 58 112 58M320 296c-60 0-45 58-112 58" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity=".82"/>
+  </g>
+  <text x="516" y="222" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="104" font-weight="800" letter-spacing="0">Skills</text>
+  <text x="520" y="288" fill="#B8F7FF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="34" font-weight="650" letter-spacing="0">Agent-ready docs for oRPC and Better Notify</text>
+  <text x="520" y="354" fill="#D9E4EC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="450" letter-spacing="0">+100 focused SKILL.md packages for Codex, Claude,</text>
+  <text x="520" y="392" fill="#D9E4EC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="450" letter-spacing="0">Copilot, and tools that load knowledge on demand.</text>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="700" letter-spacing="0">
+    <rect x="520" y="424" width="132" height="52" rx="18" fill="#F8FAFC"/>
+    <text x="552" y="458" fill="#101828">oRPC</text>
+    <rect x="672" y="424" width="232" height="52" rx="18" fill="#4EF0D2"/>
+    <text x="704" y="458" fill="#071016">Better Notify</text>
+    <rect x="924" y="424" width="180" height="52" rx="18" fill="#FFB84D"/>
+    <text x="956" y="458" fill="#071016">skills.sh</text>
+  </g>
+</svg>

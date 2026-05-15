@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Skills signal stack logo</title>
+  <desc id="desc">Stacked documentation cards emitting a compact agent signal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="90" y1="86" x2="420" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#121826"/>
+      <stop offset="1" stop-color="#182118"/>
+    </linearGradient>
+    <linearGradient id="card" x1="136" y1="128" x2="368" y2="376" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#D8FFF7"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <g transform="rotate(-8 256 256)">
+    <rect x="126" y="140" width="248" height="260" rx="42" fill="#78E8D7" opacity=".22"/>
+    <rect x="148" y="116" width="248" height="260" rx="42" fill="#879CFF" opacity=".28"/>
+    <rect x="116" y="104" width="248" height="260" rx="42" fill="url(#card)"/>
+  </g>
+  <path d="M178 178h124M178 230h160M178 282h96" stroke="#111827" stroke-width="24" stroke-linecap="round"/>
+  <path d="M342 292c23 0 42 19 42 42m-70-42c39 0 70 31 70 70m-98-70c54 0 98 44 98 98" fill="none" stroke="#FFB84D" stroke-width="20" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Skills liquid glass logo</title>
+  <desc id="desc">A translucent glass tile containing layered skill cards and a bright routing spark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="70" y1="56" x2="440" y2="456" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset=".52" stop-color="#13283A"/>
+      <stop offset="1" stop-color="#0A1518"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="122" y1="82" x2="390" y2="422" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity=".72"/>
+      <stop offset=".38" stop-color="#B8F7FF" stop-opacity=".26"/>
+      <stop offset=".72" stop-color="#C8D7FF" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".38"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="128" y1="86" x2="382" y2="426" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity=".9"/>
+      <stop offset=".5" stop-color="#86F7FF" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".62"/>
+    </linearGradient>
+    <filter id="shadow" x="44" y="48" width="424" height="424" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#000000" flood-opacity=".34"/>
+      <feDropShadow dx="0" dy="-8" stdDeviation="18" flood-color="#8EF8FF" flood-opacity=".14"/>
+    </filter>
+    <filter id="soft" x="84" y="64" width="344" height="384" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="148" cy="126" r="92" fill="#31E7D3" opacity=".22" filter="url(#soft)"/>
+  <circle cx="384" cy="372" r="110" fill="#FFB85C" opacity=".18" filter="url(#soft)"/>
+  <g filter="url(#shadow)">
+    <rect x="112" y="76" width="288" height="360" rx="74" fill="url(#glass)" stroke="url(#edge)" stroke-width="3"/>
+    <path d="M145 111c18-18 44-28 77-28h75c-62 24-112 68-149 132-10-38-11-73-3-104Z" fill="#FFFFFF" opacity=".22"/>
+    <path d="M168 330c48 35 104 47 169 34-27 37-61 56-102 56h-28c-27 0-47-10-61-30-11-16-4-39 22-60Z" fill="#FFFFFF" opacity=".16"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M184 198h144M184 256h144M184 314h144" stroke="#EAFDFF" stroke-width="28" opacity=".82"/>
+      <path d="M184 198h144M184 256h144M184 314h144" stroke="#101B2B" stroke-width="12" opacity=".28"/>
+      <path d="M194 198h124M194 256h124M194 314h124" stroke="#FFFFFF" stroke-width="4" opacity=".72"/>
+    </g>
+    <circle cx="178" cy="198" r="20" fill="#38E8D4"/>
+    <circle cx="334" cy="256" r="20" fill="#FFB85C"/>
+    <circle cx="178" cy="314" r="20" fill="#9DB7FF"/>
+    <path d="M202 198c66 0 48 58 112 58M314 256c-60 0-45 58-112 58" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity=".82"/>
+    <path d="m352 146 10 24 25 10-25 10-10 25-10-25-24-10 24-10 10-24Z" fill="#FFFFFF"/>
+  </g>
+</svg>

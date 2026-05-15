@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Skills prism logo</title>
+  <desc id="desc">A prism monogram formed from layered agent skill tiles.</desc>
+  <defs>
+    <linearGradient id="a" x1="93" y1="86" x2="431" y2="424" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101828"/>
+      <stop offset="1" stop-color="#0D1512"/>
+    </linearGradient>
+    <linearGradient id="b" x1="146" y1="126" x2="366" y2="382" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4EF0D2"/>
+      <stop offset=".5" stop-color="#8EA7FF"/>
+      <stop offset="1" stop-color="#FFB84D"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#a)"/>
+  <path d="M256 78 400 160v192L256 434 112 352V160L256 78Z" fill="#172033" stroke="#FFFFFF" stroke-opacity=".16" stroke-width="4"/>
+  <path d="M256 118 366 182v148l-110 64-110-64V182l110-64Z" fill="none" stroke="url(#b)" stroke-width="28" stroke-linejoin="round"/>
+  <path d="M180 203h152M180 256h152M180 309h152" stroke="#F7FAFC" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="180" cy="203" r="17" fill="#4EF0D2"/>
+  <circle cx="332" cy="256" r="17" fill="#FFB84D"/>
+  <circle cx="180" cy="309" r="17" fill="#8EA7FF"/>
+</svg>
