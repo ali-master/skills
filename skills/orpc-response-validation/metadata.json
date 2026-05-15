@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Validate server responses against the contract schema. Validates server responses against your contract schema, ensuring data matches the expected types.",
+  "references": []
+}

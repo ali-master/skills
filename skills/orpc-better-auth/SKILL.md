@@ -1,9 +1,11 @@
 ---
 name: oRPC Better Auth Integration
 description: Use Better Auth inside your oRPC projects without any extra overhead.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Better Auth Integration

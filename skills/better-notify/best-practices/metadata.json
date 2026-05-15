@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Quick reference for Better Notify configuration, patterns, and common gotchas **Always consult [better-notify.com/docs](https://better-notify.com/docs) for latest API.**",
+  "references": [
+    "https://better-notify.com/docs",
+    "https://github.com/better-notify/better-notify",
+    "https://github.com/better-notify/better-notify/tree/main/examples"
+  ]
+}

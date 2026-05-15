@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Integrate oRPC with OpenTelemetry for distributed tracing. [OpenTelemetry](https://opentelemetry.io/) provides observability APIs and instrumentation for applications.",
+  "references": [
+    "https://opentelemetry.io/",
+    "https://opentelemetry.io/docs/concepts/context-propagation/"
+  ]
+}

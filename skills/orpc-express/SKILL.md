@@ -1,9 +1,11 @@
 ---
 name: oRPC Express.js Adapter
 description: Use oRPC inside an Express.js project.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Express.js Adapter

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Listen and publish events with resuming support in oRPC. The Publisher helper enables listening to and publishing events to subscribers. Combined with [Event Iterator](/docs/client/event-iterator), it allows you to build streaming responses with minimal effort.",
+  "references": [
+    "https://developers.cloudflare.com/durable-objects/",
+    "https://github.com/redis/ioredis",
+    "https://github.com/upstash/redis-js"
+  ]
+}

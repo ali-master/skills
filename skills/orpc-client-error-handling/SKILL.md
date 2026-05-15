@@ -1,9 +1,11 @@
 ---
 name: oRPC Client Error Handling
 description: Handle errors in a type-safe way in oRPC clients.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Error Handling in oRPC Clients

@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "A plugin for oRPC to limit the request body size. The **Body Limit Plugin** restricts the size of the request body.",
+  "references": []
+}

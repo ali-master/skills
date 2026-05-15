@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Understanding procedures in oRPC — standard functions with validation, middleware, and DI. A procedure is like a standard function with built-in support for:",
+  "references": [
+    "https://github.com/arktypeio/arktype",
+    "https://github.com/colinhacks/zod",
+    "https://github.com/fabian-hiller/valibot",
+    "https://github.com/standard-schema/standard-schema"
+  ]
+}

@@ -1,9 +1,11 @@
 ---
 name: oRPC HTTP Adapter
 description: How to use oRPC over HTTP with various server and client adapters.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # HTTP

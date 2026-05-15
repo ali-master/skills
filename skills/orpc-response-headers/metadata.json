@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Set response headers in oRPC. Injects a `resHeaders` instance into the `context`, enabling you to modify response headers.",
+  "references": []
+}

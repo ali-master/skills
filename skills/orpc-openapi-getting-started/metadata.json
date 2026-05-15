@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Quick guide to OpenAPI in oRPC. oRPC is inherently compatible with OpenAPI, but you may need additional configurations such as path prefixes, custom routing, etc.",
+  "references": []
+}

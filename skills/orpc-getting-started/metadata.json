@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Quick guide to oRPC — define procedures, handle errors, integrate with popular frameworks. oRPC (OpenAPI Remote Procedure Call) combines RPC with OpenAPI, allowing type-safe API definition and consumption.",
+  "references": []
+}

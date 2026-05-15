@@ -1,9 +1,11 @@
 ---
 name: Mini oRPC Procedure Builder
 description: Mini oRPC's procedure builder for defining type-safe procedures.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Procedure Builder in Mini oRPC

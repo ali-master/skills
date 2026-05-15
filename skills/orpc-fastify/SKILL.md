@@ -1,9 +1,11 @@
 ---
 name: oRPC Fastify Adapter
 description: Use oRPC inside a Fastify project.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Fastify Adapter

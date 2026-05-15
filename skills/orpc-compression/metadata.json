@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "A plugin for oRPC that compresses response bodies to reduce bandwidth usage. The **Compression Plugin** compresses response bodies to reduce bandwidth usage and improve performance.",
+  "references": []
+}

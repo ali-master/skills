@@ -1,9 +1,11 @@
 ---
 name: oRPC OpenAPI to Contract
 description: Generate an oRPC contract from an existing OpenAPI specification with Hey API.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # OpenAPI to Contract

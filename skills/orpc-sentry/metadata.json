@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Integrate oRPC with Sentry for error tracking and performance monitoring. Based on the [OpenTelemetry Integration](/docs/integrations/opentelemetry).",
+  "references": [
+    "https://opentelemetry.io/docs/concepts/signals/traces/#span-events"
+  ]
+}

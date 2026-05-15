@@ -1,9 +1,11 @@
 ---
 name: oRPC Client Retry Plugin
 description: A plugin for oRPC that enables retrying client calls when errors occur.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Client Retry Plugin

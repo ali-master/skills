@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC inside an H3 project. [H3](https://h3.dev/) is a universal, tiny, and fast web framework built on top of web standards.",
+  "references": [
+    "https://h3.dev/"
+  ]
+}

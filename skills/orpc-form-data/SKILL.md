@@ -1,9 +1,11 @@
 ---
 name: oRPC Form Data Helpers
 description: Utilities for parsing form data and handling validation errors with bracket notation support.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Form Data Helpers

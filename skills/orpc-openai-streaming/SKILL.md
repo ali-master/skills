@@ -1,9 +1,11 @@
 ---
 name: oRPC OpenAI Streaming Example
 description: Combine oRPC with the OpenAI Streaming API to build a chatbot.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # OpenAI Streaming Example

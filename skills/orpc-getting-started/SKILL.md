@@ -1,9 +1,11 @@
 ---
 name: oRPC Getting Started
 description: Quick guide to oRPC — define procedures, handle errors, integrate with popular frameworks.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Getting Started

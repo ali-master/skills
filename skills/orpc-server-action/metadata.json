@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Integrate oRPC procedures with React Server Actions. React [Server Actions](https://react.dev/reference/rsc/server-functions) let client components invoke async server functions. With oRPC, append `.actionable` to enable Server Action compatibility.",
+  "references": [
+    "https://nextjs.org/",
+    "https://react.dev/reference/rsc/server-functions",
+    "https://tanstack.com/start/latest"
+  ]
+}

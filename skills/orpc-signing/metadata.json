@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Cryptographically sign and verify data using HMAC-SHA256.",
+  "references": []
+}

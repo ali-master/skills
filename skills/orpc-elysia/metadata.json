@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC inside an Elysia project. [Elysia](https://elysiajs.com/) is a high-performance Bun web framework following the Fetch API.",
+  "references": [
+    "https://elysiajs.com/"
+  ]
+}

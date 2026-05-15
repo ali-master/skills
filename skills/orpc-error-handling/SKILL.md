@@ -1,9 +1,11 @@
 ---
 name: oRPC Error Handling
 description: Manage errors in oRPC using both traditional and type-safe strategies.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Error Handling in oRPC

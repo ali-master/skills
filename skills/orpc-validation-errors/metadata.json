@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Customize built-in input/output validation errors using client interceptors or middleware, with type-safe error mapping. oRPC provides built-in validation errors that work well by default. You can customize them when needed.",
+  "references": []
+}

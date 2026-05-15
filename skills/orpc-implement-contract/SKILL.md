@@ -1,9 +1,11 @@
 ---
 name: oRPC Implement Contract
 description: Implement a contract for contract-first development in oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Implement Contract

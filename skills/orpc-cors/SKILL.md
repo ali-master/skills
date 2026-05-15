@@ -1,9 +1,11 @@
 ---
 name: oRPC CORS Plugin
 description: CORS Plugin for oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # CORS Plugin

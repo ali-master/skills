@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Learn about the RPC protocol used by RPCHandler. The RPC protocol enables remote procedure calls over HTTP using JSON, supporting native data types.",
+  "references": []
+}

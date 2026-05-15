@@ -1,9 +1,11 @@
 ---
 name: oRPC DynamicLink
 description: Dynamically switch between multiple oRPC's links.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # DynamicLink

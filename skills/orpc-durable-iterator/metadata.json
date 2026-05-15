@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Extends Event Iterator with durable event streams, automatic reconnections, and event recovery. Durable Iterator extends [Event Iterator](/docs/event-iterator) by offloading streaming to a separate service that provides durable event streams, automatic reconnections, and event recovery.",
+  "references": [
+    "https://developers.cloudflare.com/durable-objects/"
+  ]
+}

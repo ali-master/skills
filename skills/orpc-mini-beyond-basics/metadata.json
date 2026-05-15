@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Advanced features you can implement in Mini oRPC. This section explores advanced features and techniques you can implement to enhance Mini oRPC's capabilities.",
+  "references": [
+    "https://github.com/middleapi/mini-orpc",
+    "https://github.com/middleapi/mini-orpc/tree/main/playground",
+    "https://github.com/middleapi/orpc/blob/main/packages/client/src/adapters/standard/rpc-serializer.ts",
+    "https://github.com/middleapi/orpc/blob/main/packages/server/src/builder-variants.ts",
+    "https://github.com/middleapi/orpc/blob/main/packages/server/src/middleware.ts",
+    "https://github.com/middleapi/orpc/blob/main/packages/server/src/procedure-client.ts#L113-L120"
+  ]
+}

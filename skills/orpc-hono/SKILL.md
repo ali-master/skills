@@ -1,9 +1,11 @@
 ---
 name: oRPC Hono Adapter
 description: Use oRPC inside a Hono project.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Hono Adapter

@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Generate oRPC contracts from OpenAPI with Hey API or adapt a Hey API client. [Hey API](https://heyapi.dev/) integrates two ways:",
+  "references": [
+    "https://heyapi.dev/"
+  ]
+}

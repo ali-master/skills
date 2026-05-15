@@ -1,9 +1,11 @@
 ---
 name: oRPC RPCLink
 description: Use RPCLink in oRPC clients to communicate with RPCHandler.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # RPCLink

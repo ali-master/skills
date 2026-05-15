@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC inside a Remix project. [Remix](https://remix.run/) is a full stack JavaScript framework.",
+  "references": [
+    "https://remix.run/"
+  ]
+}

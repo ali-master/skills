@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Type-safe communication between browser scripts using Message Port Adapter. Enable type-safe communication between browser scripts using the [Message Port Adapter](/docs/adapters/message-port).",
+  "references": [
+    "https://developer.chrome.com/docs/extensions/reference/manifest/content-scripts#world-timings"
+  ]
+}

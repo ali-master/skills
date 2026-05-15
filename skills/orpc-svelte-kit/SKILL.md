@@ -1,9 +1,11 @@
 ---
 name: oRPC Svelte Kit Adapter
 description: Use oRPC inside a Svelte Kit project.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Svelte Kit Adapter

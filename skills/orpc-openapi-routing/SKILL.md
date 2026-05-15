@@ -1,9 +1,11 @@
 ---
 name: oRPC OpenAPI Routing
 description: Configure procedure routing with HTTP methods, paths, and response statuses.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Routing

@@ -1,9 +1,11 @@
 ---
 name: oRPC Dedupe Requests Plugin
 description: Prevents duplicate requests by deduplicating similar ones to reduce server load.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Dedupe Requests Plugin

@@ -1,9 +1,11 @@
 ---
 name: oRPC OpenAPI Specification
 description: Generate OpenAPI specifications for oRPC with ease.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # OpenAPI Specification

@@ -185,9 +185,11 @@ Each skill is a folder under [`skills/`](./skills/) containing a `SKILL.md` with
 ---
 name: My Skill
 description: One-line summary the agent uses to decide when to load this skill.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # My Skill
@@ -201,8 +203,28 @@ Practical, focused guidance the agent can act on.
 | --------------------- | -------- | -------------------------------------------------------------------------------------- |
 | `name`                | ✅       | Display label shown to the agent. Must be ≤ 64 characters.                             |
 | `description`         | ✅       | One-line summary the agent uses to decide whether to load the skill.                   |
+| `license`             | ✅       | SPDX license identifier for the skill (defaults to `MIT` to match the repo).           |
 | `metadata.author`     | ✅       | Skill author (defaults to `Ali Torki` for skills in this repo).                        |
 | `metadata.homepage`   | ✅       | Author homepage (defaults to `https://github.com/ali-master`).                         |
+| `metadata.version`    | ✅       | Skill version as a quoted SemVer string (defaults to `"1.0.0"`).                       |
+
+### Sidecar `metadata.json`
+
+Every skill folder also ships a `metadata.json` next to its `SKILL.md`:
+
+```json
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Short paragraph describing what the skill covers and when an agent should reach for it.",
+  "references": [
+    "https://upstream-docs.example.com/relevant-section"
+  ]
+}
+```
+
+`abstract` is derived from `description` plus the first body paragraph; `references` is the deduped set of external URLs cited in the `SKILL.md`. Regenerate with `bun run skills:json` after editing a skill.
 
 ### Nested skills
 
@@ -221,7 +243,8 @@ The catalog renders nested slugs as `parent/child` so they sort next to their pa
 ### Helper scripts
 
 ```sh
-bun run skills:metadata   # backfill the standard metadata block on every SKILL.md (idempotent)
+bun run skills:metadata   # backfill the author/homepage metadata block on every SKILL.md (idempotent)
+bun run skills:json       # add license + metadata.version to frontmatter and regenerate every metadata.json
 bun run skills:table      # regenerate the catalog table in README.md
 ```
 
@@ -231,9 +254,10 @@ Keep skills tight — agents pull them into the context window, so brevity wins.
 
 1. Fork & branch.
 2. Add a new directory under `skills/` with a `SKILL.md` (top-level **or** nested under an existing skill).
-3. Run `bun run skills:metadata` to apply the standard `metadata` block.
-4. Run `bun run skills:table` so the catalog stays in sync.
-5. Open a PR.
+3. Run `bun run skills:metadata` to apply the standard author/homepage `metadata` block.
+4. Run `bun run skills:json` to add `license` + `metadata.version` and generate the sidecar `metadata.json`.
+5. Run `bun run skills:table` so the catalog stays in sync.
+6. Open a PR.
 
 The skill `name` in frontmatter must be ≤ 64 characters.
 

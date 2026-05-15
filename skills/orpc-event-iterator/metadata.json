@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Streaming responses, real-time updates, and server-sent events using oRPC. oRPC provides built-in support for streaming responses, real-time updates, and server-sent events (SSE) without any extra configuration.",
+  "references": []
+}

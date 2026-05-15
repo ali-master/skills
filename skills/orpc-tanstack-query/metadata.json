@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Seamlessly integrate oRPC with TanStack Query (React, Vue, Solid, Svelte, Angular). [TanStack Query](https://tanstack.com/query/latest) is a robust solution for asynchronous state management.",
+  "references": [
+    "https://tanstack.com/query/latest"
+  ]
+}

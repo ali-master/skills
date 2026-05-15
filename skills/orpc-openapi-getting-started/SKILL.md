@@ -1,9 +1,11 @@
 ---
 name: oRPC OpenAPI Getting Started
 description: Quick guide to OpenAPI in oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # OpenAPI Getting Started

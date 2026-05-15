@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Functions to encrypt and decrypt sensitive data using AES-GCM. Encryption helpers provide functions to encrypt and decrypt sensitive data using AES-GCM with PBKDF2 key derivation.",
+  "references": []
+}

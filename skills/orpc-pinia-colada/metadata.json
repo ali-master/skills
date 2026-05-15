@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Seamlessly integrate oRPC with Pinia Colada for Vue. [Pinia Colada](https://pinia-colada.esm.dev/) is the data fetching layer for Pinia and Vue.",
+  "references": [
+    "https://pinia-colada.esm.dev/"
+  ]
+}

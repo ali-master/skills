@@ -1,9 +1,11 @@
 ---
 name: oRPC Client Event Iterator
 description: Use event iterators in oRPC clients.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Event Iterator in oRPC Clients

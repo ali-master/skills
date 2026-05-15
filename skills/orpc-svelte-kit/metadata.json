@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC inside a Svelte Kit project. [Svelte Kit](https://svelte.dev/docs/kit/introduction) integration.",
+  "references": [
+    "https://svelte.dev/docs/kit/introduction"
+  ]
+}

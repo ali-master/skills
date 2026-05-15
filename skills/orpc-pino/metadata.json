@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Integrate oRPC with Pino for structured logging and request tracking. [Pino](https://getpino.io/) is a fast and lightweight JSON logger.",
+  "references": [
+    "https://getpino.io/",
+    "https://github.com/pinojs/pino-http",
+    "https://github.com/pinojs/pino-pretty"
+  ]
+}

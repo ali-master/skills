@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Plugin that serves API reference documentation (Scalar/Swagger) and the OpenAPI specification. Provides API reference documentation powered by [Scalar](https://github.com/scalar/scalar) or [Swagger UI](https://swagger.io/tools/swagger-ui/), along with the OpenAPI specification.",
+  "references": [
+    "https://github.com/scalar/scalar",
+    "https://swagger.io/tools/swagger-ui/"
+  ]
+}

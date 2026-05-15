@@ -1,9 +1,11 @@
 ---
 name: oRPC Zod Smart Coercion
 description: Refined alternative to z.coerce — automatically coerces inputs to the expected type without modifying the schema.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Zod Smart Coercion

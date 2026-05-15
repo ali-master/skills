@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "skills:table": "bun --bun run scripts/generate-skills-table.ts",
-    "skills:metadata": "bun --bun run scripts/add-skill-metadata.ts"
+    "skills:metadata": "bun --bun run scripts/add-skill-metadata.ts",
+    "skills:json": "bun --bun run scripts/generate-skill-metadata.ts"
   },
   "devDependencies": {
     "bun-types": "^1.3.14"

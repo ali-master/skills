@@ -1,9 +1,11 @@
 ---
 name: oRPC Electron Adapter
 description: Use oRPC inside an Electron project via Message Port Adapter.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Electron Adapter

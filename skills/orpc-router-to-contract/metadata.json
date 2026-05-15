@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Convert a router into a contract, export it safely, and prevent internal exposure. A normal router works as a contract router as long as it doesn't include a [lazy router](/docs/router#lazy-router).",
+  "references": []
+}

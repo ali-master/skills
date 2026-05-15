@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use RPCLink in oRPC clients to communicate with RPCHandler. Enables communication with [RPCHandler](/docs/rpc-handler) or any API following the [RPC Protocol](/docs/advanced/rpc-protocol) using HTTP/Fetch.",
+  "references": []
+}

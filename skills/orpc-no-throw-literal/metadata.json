@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Always throw Error instances instead of literal values. In JavaScript, you can throw any value, but it's best to throw only `Error` instances.",
+  "references": [
+    "https://eslint.org/docs/rules/no-throw-literal",
+    "https://standardjs.com/rules.html#throw-new-error-old-style"
+  ]
+}

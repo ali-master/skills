@@ -1,9 +1,11 @@
 ---
 name: oRPC AI SDK Integration
 description: Seamlessly use AI SDK inside your oRPC projects without any extra overhead.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # AI SDK Integration

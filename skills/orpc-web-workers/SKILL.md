@@ -1,9 +1,11 @@
 ---
 name: oRPC Web Workers Adapter
 description: Type-safe oRPC communication between the main thread and Web Workers via the Message Port adapter.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Web Workers Adapter

@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Replace the default oRPC RPC serializer with [SuperJson](https://github.com/blitz-js/superjson).",
+  "references": [
+    "https://github.com/blitz-js/superjson"
+  ]
+}

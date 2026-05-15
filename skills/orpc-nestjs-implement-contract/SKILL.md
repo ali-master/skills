@@ -1,9 +1,11 @@
 ---
 name: oRPC NestJS Implement Contract
 description: Implement oRPC contracts in your NestJS projects with @orpc/nest.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Implement Contract in NestJS

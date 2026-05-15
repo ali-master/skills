@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC inside a TanStack Start project with server routes, isomorphic links, and SSR optimization. [TanStack Start](https://tanstack.com/start) is a full-stack React framework built on [Vite](https://vitejs.dev/) and the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API). For additional context, see the [HTTP Adapter](/docs/adapters/http) guide.",
+  "references": [
+    "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
+    "https://tanstack.com/start",
+    "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes",
+    "https://vitejs.dev/"
+  ]
+}

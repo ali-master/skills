@@ -1,9 +1,11 @@
 ---
 name: oRPC Optimize SSR
 description: Optimize SSR for fullstack frameworks by avoiding unnecessary HTTP self-calls.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Optimize Server-Side Rendering (SSR) for Fullstack Frameworks

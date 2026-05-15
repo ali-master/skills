@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Test oRPC procedures using server-side clients, and mock implementations for frontend testing. Strategies for testing and mocking oRPC routers and procedures.",
+  "references": [
+    "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
+  ]
+}

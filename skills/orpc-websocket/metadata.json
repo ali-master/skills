@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC over WebSocket for low-latency, bidirectional RPC across browser, Node, Bun, Deno, Cloudflare, and CrossWS. oRPC provides built-in WebSocket support for low-latency, bidirectional RPC.",
+  "references": [
+    "https://bun.sh/docs/api/websockets",
+    "https://developer.mozilla.org/en-US/docs/Web/API/WebSocket",
+    "https://github.com/h3js/crossws",
+    "https://github.com/websockets/ws",
+    "https://www.npmjs.com/package/partysocket"
+  ]
+}

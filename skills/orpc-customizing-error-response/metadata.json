@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Customize the error response format in oRPC OpenAPI. By default, [OpenAPIHandler](/docs/openapi/openapi-handler), [OpenAPIGenerator](/docs/openapi/openapi-specification), and [OpenAPILink](/docs/openapi/client/openapi-link) share the same error response format. You can customize one, some, or all of them.",
+  "references": []
+}

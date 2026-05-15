@@ -1,9 +1,11 @@
 ---
 name: oRPC Customizing Error Response
 description: Customize the error response format in oRPC OpenAPI.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Customizing Error Response Format

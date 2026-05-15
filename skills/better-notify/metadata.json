@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Context and API guidance for Better Notify — end-to-end typed notification infrastructure for Node.js End-to-end typed notification infrastructure for Node.js (ESM-only, Node >= 22). A single catalog type drives the typed sender and webhook router — analogous to tRPC, but for notifications.",
+  "references": [
+    "https://better-notify.com",
+    "https://better-notify.com/docs"
+  ]
+}

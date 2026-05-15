@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Control how input and output data is structured in oRPC. Control the organization of request inputs and response outputs using `inputStructure` and `outputStructure` options.",
+  "references": []
+}

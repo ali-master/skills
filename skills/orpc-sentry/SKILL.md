@@ -1,9 +1,11 @@
 ---
 name: oRPC Sentry Integration
 description: Integrate oRPC with Sentry for error tracking and performance monitoring.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Sentry Integration

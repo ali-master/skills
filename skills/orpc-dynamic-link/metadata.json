@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Dynamically switch between multiple oRPC's links. `DynamicLink` lets you dynamically choose between different oRPC links based on your client context.",
+  "references": []
+}

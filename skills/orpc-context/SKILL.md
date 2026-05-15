@@ -1,9 +1,11 @@
 ---
 name: oRPC Context
 description: Type-safe dependency injection pattern in oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Context in oRPC

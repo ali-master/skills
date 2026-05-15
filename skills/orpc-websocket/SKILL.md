@@ -1,9 +1,11 @@
 ---
 name: oRPC WebSocket Adapter
 description: Use oRPC over WebSocket for low-latency, bidirectional RPC across browser, Node, Bun, Deno, Cloudflare, and CrossWS.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Websocket

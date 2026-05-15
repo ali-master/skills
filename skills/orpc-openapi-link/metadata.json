@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use OpenAPILink in oRPC clients to communicate with OpenAPI-compliant APIs. Enables communication with an [OpenAPIHandler](/docs/openapi/openapi-handler) or any API following the [OpenAPI Specification](https://swagger.io/specification/) using HTTP/Fetch.",
+  "references": [
+    "https://swagger.io/specification/"
+  ]
+}

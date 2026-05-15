@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Create powerful custom plugins to extend oRPC handlers and links with interceptors. This guide explains how to create custom oRPC plugins for handlers and links.",
+  "references": []
+}

@@ -1,9 +1,11 @@
 ---
 name: oRPC Pino Integration
 description: Integrate oRPC with Pino for structured logging and request tracking.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Pino Integration

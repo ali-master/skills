@@ -1,9 +1,11 @@
 ---
 name: oRPC Rethrow Handler Plugin
 description: Catch and rethrow specific errors during request handling.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Rethrow Handler Plugin

@@ -1,9 +1,11 @@
 ---
 name: oRPC Body Limit Plugin
 description: A plugin for oRPC to limit the request body size.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Body Limit Plugin

@@ -1,9 +1,11 @@
 ---
 name: oRPC Input/Output Structure
 description: Control how input and output data is structured in oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Input/Output Structure

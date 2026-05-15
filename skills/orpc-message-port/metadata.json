@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Using oRPC with Message Ports for internal communication between processes. oRPC offers built-in support for common Message Port implementations, enabling easy internal communication between processes.",
+  "references": [
+    "https://developer.mozilla.org/en-US/docs/Web/API/MessagePort/postMessage",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Structured_clone_algorithm"
+  ]
+}

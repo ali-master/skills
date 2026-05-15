@@ -1,9 +1,11 @@
 ---
 name: oRPC H3 Adapter
 description: Use oRPC inside an H3 project.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # H3 Adapter

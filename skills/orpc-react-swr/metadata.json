@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Integrate oRPC with React SWR for efficient data fetching and caching. [SWR](https://swr.vercel.app/) is a React Hooks library for data fetching.",
+  "references": [
+    "https://swr.vercel.app/"
+  ]
+}

@@ -1,9 +1,11 @@
 ---
 name: better-notify/best-practices
 description: Quick reference for Better Notify configuration, patterns, and common gotchas
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Better Notify Quick Reference

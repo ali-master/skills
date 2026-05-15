@@ -1,9 +1,11 @@
 ---
 name: oRPC Router
 description: Understanding routers in oRPC — nestable objects composed of procedures.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Router in oRPC

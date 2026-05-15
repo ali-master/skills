@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC inside a Solid Start project. [Solid Start](https://start.solidjs.com/) is a full stack JavaScript framework for building web applications with SolidJS.",
+  "references": [
+    "https://start.solidjs.com/"
+  ]
+}

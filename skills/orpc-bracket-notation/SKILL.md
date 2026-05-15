@@ -1,9 +1,11 @@
 ---
 name: oRPC Bracket Notation
 description: Represent structured data in limited formats such as URL queries and form data.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Bracket Notation

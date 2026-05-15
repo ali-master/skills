@@ -1,9 +1,11 @@
 ---
 name: oRPC Solid Start Adapter
 description: Use oRPC inside a Solid Start project.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Solid Start Adapter

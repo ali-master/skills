@@ -1,9 +1,11 @@
 ---
 name: oRPC RPC JSON Serializer
 description: Extend or override the standard RPC JSON serializer.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # RPC JSON Serializer

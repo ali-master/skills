@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Define a contract for contract-first development in oRPC. **Contract-first development** is a design pattern where you define the API contract before writing implementation code.",
+  "references": []
+}

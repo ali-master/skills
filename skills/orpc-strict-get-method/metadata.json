@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Only procedures explicitly accepting GET can be called via HTTP GET (CSRF protection). Enhances security by ensuring only procedures explicitly marked to accept `GET` requests can be called using HTTP `GET` for [RPC Protocol](/docs/advanced/rpc-protocol). Helps prevent certain CSRF attacks.",
+  "references": []
+}

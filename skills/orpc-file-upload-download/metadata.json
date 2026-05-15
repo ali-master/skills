@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Upload and download files using oRPC with standard File and Blob objects. oRPC natively supports standard [File](https://developer.mozilla.org/en-US/docs/Web/API/File) and [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob) objects. Combine files with arrays and objects for upload/download.",
+  "references": [
+    "https://bun.com/docs/api/file-io#reading-files-bun-file",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Blob",
+    "https://developer.mozilla.org/en-US/docs/Web/API/File",
+    "https://www.npmjs.com/package/@mjackson/lazy-file"
+  ]
+}

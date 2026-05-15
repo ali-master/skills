@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use Better Auth inside your oRPC projects without any extra overhead. [Better Auth](https://better-auth.com/) is a framework-agnostic, universal authentication and authorization framework for TypeScript.",
+  "references": [
+    "https://better-auth.com/"
+  ]
+}

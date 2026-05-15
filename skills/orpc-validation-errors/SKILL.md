@@ -1,9 +1,11 @@
 ---
 name: oRPC Validation Errors
 description: Customize built-in input/output validation errors using client interceptors or middleware, with type-safe error mapping.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Validation Errors

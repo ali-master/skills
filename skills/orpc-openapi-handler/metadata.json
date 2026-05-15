@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Comprehensive Guide to the OpenAPIHandler in oRPC. `OpenAPIHandler` enables communication with clients over RESTful APIs adhering to the OpenAPI specification.",
+  "references": []
+}

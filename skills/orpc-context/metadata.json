@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Type-safe dependency injection pattern in oRPC. oRPC's context mechanism provides a type-safe dependency injection pattern. Two types:",
+  "references": []
+}

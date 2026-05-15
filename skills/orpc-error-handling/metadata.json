@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Manage errors in oRPC using both traditional and type-safe strategies. oRPC offers a robust error handling system. You can throw standard JavaScript errors or use the specialized `ORPCError` class.",
+  "references": []
+}

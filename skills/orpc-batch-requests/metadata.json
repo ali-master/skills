@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "A plugin for oRPC to batch requests and responses to reduce overhead. The **Batch Requests Plugin** combines multiple requests and responses into a single batch, reducing overhead.",
+  "references": []
+}

@@ -1,9 +1,11 @@
 ---
 name: better-notify/setup
 description: Interactive setup wizard for adding Better Notify to a TypeScript/JavaScript project
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Better Notify Setup

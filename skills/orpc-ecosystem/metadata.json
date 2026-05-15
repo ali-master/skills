@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Community resources, starter kits, tools, and libraries for oRPC.",
+  "references": [
+    "https://github.com/AmanVarshney01/create-better-t-stack",
+    "https://github.com/BearStudio/start-ui-web",
+    "https://github.com/CarlosZiegler/start-kit.dev",
+    "https://github.com/DanSnow/orpc-msw",
+    "https://github.com/NeilTheFisher/orpc-json-diff",
+    "https://github.com/Quatton/vertrag",
+    "https://github.com/TanStack/create-tsrouter-app",
+    "https://github.com/Tony-ArtZ/create-o3-app",
+    "https://github.com/mefengl/wxt-starter",
+    "https://github.com/middleapi/orpc/edit/main/apps/content/docs/ecosystem.md",
+    "https://github.com/mmkal/trpc-cli",
+    "https://github.com/near-everything/every-plugin",
+    "https://github.com/nktnet1/rt-stack",
+    "https://github.com/omar-dulaimi/orpc-shield",
+    "https://github.com/omar-dulaimi/prisma-orpc-generator",
+    "https://github.com/reliverse/rempts",
+    "https://github.com/stack-found/vazen",
+    "https://github.com/sunshineLixun/ShipFullStack",
+    "https://github.com/use-drzl/drzl",
+    "https://github.com/utopyin/effect-orpc",
+    "https://github.com/zap-studio/monorepo",
+    "https://github.com/zeeeeby/orpc-file-based-router",
+    "https://permix.letstri.dev/"
+  ]
+}

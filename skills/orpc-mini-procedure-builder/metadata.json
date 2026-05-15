@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Mini oRPC's procedure builder for defining type-safe procedures. The procedure builder is Mini oRPC's core component that enables you to define type-safe procedures with an intuitive, fluent API.",
+  "references": [
+    "https://github.com/middleapi/mini-orpc"
+  ]
+}

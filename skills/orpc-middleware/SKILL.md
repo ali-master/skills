@@ -1,9 +1,11 @@
 ---
 name: oRPC Middleware
 description: Middleware enables reusable and extensible procedures in oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Middleware in oRPC

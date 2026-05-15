@@ -1,9 +1,11 @@
 ---
 name: oRPC Cookie Helpers
 description: Functions for managing HTTP cookies in web applications.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Cookie Helpers

@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Call your oRPC procedures in the same environment as your server like native functions. Call your [procedures](/docs/procedure) in the same environment as your server, no proxies required, like native functions.",
+  "references": []
+}

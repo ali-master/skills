@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Interactive setup wizard for adding Better Notify to a TypeScript/JavaScript project Guide for adding typed notifications to TypeScript/JavaScript applications using Better Notify.",
+  "references": [
+    "https://better-notify.com/docs",
+    "https://github.com/better-notify/better-notify",
+    "https://github.com/better-notify/better-notify/tree/main/examples"
+  ]
+}

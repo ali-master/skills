@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC inside a Nuxt.js project. [Nuxt.js](https://nuxt.com/) integration.",
+  "references": [
+    "https://nuxt.com/",
+    "https://nuxt.com/docs/guide/directory-structure/plugins"
+  ]
+}

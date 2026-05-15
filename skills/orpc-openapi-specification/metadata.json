@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Generate OpenAPI specifications for oRPC with ease. Generate OpenAPI 3.1.1 specs from your [Router](/docs/router) or [Contract](/docs/contract-first/define-contract).",
+  "references": [
+    "https://arktype.io/",
+    "https://valibot.dev",
+    "https://zod.dev/"
+  ]
+}

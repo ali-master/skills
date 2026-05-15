@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Call your oRPC procedures remotely as if they were local functions. Call your [procedures](/docs/procedure) remotely as if they were local functions.",
+  "references": []
+}

@@ -1,9 +1,11 @@
 ---
 name: oRPC Dedupe Middleware
 description: Enhance oRPC middleware performance by avoiding redundant executions.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Dedupe Middleware

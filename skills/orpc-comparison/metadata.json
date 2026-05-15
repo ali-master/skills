@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "How oRPC differs from tRPC, ts-rest, and Hono. How oRPC differs from popular TypeScript RPC and REST solutions.",
+  "references": []
+}

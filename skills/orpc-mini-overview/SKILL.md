@@ -1,9 +1,11 @@
 ---
 name: Mini oRPC Overview
 description: A simplified version of oRPC designed for learning purposes.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Overview of Mini oRPC

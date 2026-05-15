@@ -1,9 +1,11 @@
 ---
 name: oRPC Elysia Adapter
 description: Use oRPC inside an Elysia project.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Elysia Adapter

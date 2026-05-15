@@ -1,9 +1,11 @@
 ---
 name: oRPC Browser Adapter
 description: Type-safe communication between browser scripts using Message Port Adapter.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Browser Adapter

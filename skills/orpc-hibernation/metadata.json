@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Plugin to fully leverage Hibernation APIs in oRPC server (Cloudflare Websocket Hibernation, etc). Helps you fully leverage Hibernation APIs, especially useful for [Cloudflare Websocket Hibernation](https://developers.cloudflare.com/durable-objects/examples/websocket-hibernation-server/).",
+  "references": [
+    "https://developers.cloudflare.com/durable-objects/examples/websocket-hibernation-server/"
+  ]
+}

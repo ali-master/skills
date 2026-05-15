@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "How to publish your oRPC client to NPM as an SDK. Publishing your oRPC client to NPM allows users to easily consume your APIs as an SDK.",
+  "references": []
+}

@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "How to turn a procedure into a callable function in Mini oRPC. The server-side client transforms procedures into callable functions, enabling direct server-side invocation.",
+  "references": [
+    "https://github.com/middleapi/mini-orpc"
+  ]
+}

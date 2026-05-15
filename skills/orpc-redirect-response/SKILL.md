@@ -1,9 +1,11 @@
 ---
 name: oRPC Redirect Response
 description: Standard HTTP redirect response in oRPC OpenAPI.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Redirect Response

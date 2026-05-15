@@ -1,9 +1,11 @@
 ---
 name: oRPC Worker Threads Adapter
 description: Type-safe oRPC communication between Node.js worker threads via the Message Port adapter.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Worker Threads Adapter

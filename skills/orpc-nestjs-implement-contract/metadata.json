@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Implement oRPC contracts in your NestJS projects with @orpc/nest. Implement [oRPC contracts](/docs/contract-first/define-contract) in [NestJS](https://nestjs.com/) using `@orpc/nest`.",
+  "references": [
+    "https://nestjs.com/"
+  ]
+}

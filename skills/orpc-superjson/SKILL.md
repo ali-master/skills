@@ -1,9 +1,11 @@
 ---
 name: oRPC SuperJson
 description: Replace the default oRPC RPC serializer with SuperJson.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # SuperJson

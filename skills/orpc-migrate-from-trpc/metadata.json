@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "A comprehensive guide to migrate your tRPC application to oRPC. oRPC draws significant inspiration from tRPC, making migration straightforward.",
+  "references": []
+}

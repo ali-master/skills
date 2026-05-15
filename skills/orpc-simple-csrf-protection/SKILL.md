@@ -1,9 +1,11 @@
 ---
 name: oRPC Simple CSRF Protection Plugin
 description: Add basic CSRF protection to your oRPC application.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Simple CSRF Protection Plugin

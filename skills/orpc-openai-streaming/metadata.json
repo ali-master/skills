@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Combine oRPC with the OpenAI Streaming API to build a chatbot. Integrate oRPC with the OpenAI Streaming API to build a chatbot.",
+  "references": []
+}

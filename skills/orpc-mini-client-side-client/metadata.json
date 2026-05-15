@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "How to implement client-side RPC calls in Mini oRPC. In Mini oRPC, the client-side client initiates remote procedure calls to the server. Both client and server must follow shared conventions to communicate effectively.",
+  "references": [
+    "https://github.com/middleapi/mini-orpc"
+  ]
+}

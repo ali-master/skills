@@ -1,9 +1,11 @@
 ---
 name: oRPC OpenAPI Handler
 description: Comprehensive Guide to the OpenAPIHandler in oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # OpenAPI Handler

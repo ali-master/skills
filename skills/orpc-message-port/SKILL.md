@@ -1,9 +1,11 @@
 ---
 name: oRPC Message Port
 description: Using oRPC with Message Ports for internal communication between processes.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Message Port

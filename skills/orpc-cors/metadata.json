@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "CORS Plugin for oRPC. `CORSPlugin` allows you to configure CORS for your API.",
+  "references": []
+}

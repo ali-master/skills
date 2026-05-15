@@ -1,9 +1,11 @@
 ---
 name: oRPC Server-Side Clients
 description: Call your oRPC procedures in the same environment as your server like native functions.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Server-Side Clients

@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC inside a Next.js project (App Router and Pages Router). [Next.js](https://nextjs.org/) integration. Works with App Router and Pages Router.",
+  "references": [
+    "https://nextjs.org/"
+  ]
+}

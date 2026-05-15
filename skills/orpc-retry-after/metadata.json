@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Automatically retries requests based on server `Retry-After` headers. Useful for handling rate limiting and temporary server unavailability.",
+  "references": []
+}

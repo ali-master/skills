@@ -1,9 +1,11 @@
 ---
 name: oRPC Encryption Helpers
 description: Functions to encrypt and decrypt sensitive data using AES-GCM.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Encryption Helpers

@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Type-safe oRPC communication between the main thread and Web Workers via the Message Port adapter. [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Worker) run JavaScript in background threads, preventing UI blocking. Modern runtimes ([Bun](https://bun.com/docs/api/workers), [Deno](https://docs.deno.com/examples/web_workers/)) also support them.",
+  "references": [
+    "https://bun.com/docs/api/workers",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Worker",
+    "https://docs.deno.com/examples/web_workers/",
+    "https://vite.dev/guide/features.html#web-workers"
+  ]
+}

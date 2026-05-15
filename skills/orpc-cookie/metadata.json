@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Functions for managing HTTP cookies in web applications. The Cookie helpers provide functions to set and get HTTP cookies.",
+  "references": []
+}

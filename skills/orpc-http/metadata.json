@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "How to use oRPC over HTTP with various server and client adapters. oRPC includes built-in HTTP support, making it easy to expose RPC endpoints.",
+  "references": [
+    "https://aws.amazon.com/lambda/",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
+    "https://fastify.dev/",
+    "https://nodejs.org/api/http.html",
+    "https://nodejs.org/api/http2.html"
+  ]
+}

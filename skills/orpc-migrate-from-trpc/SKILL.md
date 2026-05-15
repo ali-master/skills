@@ -1,9 +1,11 @@
 ---
 name: oRPC Migrate from tRPC
 description: A comprehensive guide to migrate your tRPC application to oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Migrating from tRPC

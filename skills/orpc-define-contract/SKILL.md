@@ -1,9 +1,11 @@
 ---
 name: oRPC Define Contract
 description: Define a contract for contract-first development in oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Define Contract

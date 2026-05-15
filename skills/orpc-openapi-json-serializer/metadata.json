@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Extend or override the standard OpenAPI JSON serializer. Processes JSON payloads for [OpenAPIHandler](/docs/openapi/openapi-handler) and supports [native data types](/docs/openapi/openapi-handler#supported-data-types).",
+  "references": []
+}

@@ -1,9 +1,11 @@
 ---
 name: oRPC Client-Side Clients
 description: Call your oRPC procedures remotely as if they were local functions.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Client-Side Clients

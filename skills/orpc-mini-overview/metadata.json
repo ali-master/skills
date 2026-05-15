@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "A simplified version of oRPC designed for learning purposes. Mini oRPC is a simplified implementation of oRPC that includes essential features to help you understand the core concepts.",
+  "references": [
+    "https://github.com/middleapi/mini-orpc",
+    "https://typehero.dev/",
+    "https://www.typescriptlang.org/",
+    "https://www.typescriptlang.org/docs/handbook/2/generics.html",
+    "https://www.youtube.com/watch?v=JfZPz6PWGtA"
+  ]
+}

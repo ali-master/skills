@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Refined alternative to z.coerce — automatically coerces inputs to the expected type without modifying the schema. A plugin alternative to `z.coerce` that automatically converts inputs to the expected type without modifying the input schema.",
+  "references": []
+}

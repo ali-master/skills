@@ -1,9 +1,11 @@
 ---
 name: oRPC No Throw Literal
 description: Always throw Error instances instead of literal values.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # No Throw Literal

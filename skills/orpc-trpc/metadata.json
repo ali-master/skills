@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC features (OpenAPI specs, OpenAPIHandler) inside existing tRPC applications via @orpc/trpc. Integrate oRPC with tRPC to leverage oRPC features in your existing tRPC applications.",
+  "references": [
+    "https://trpc.io/docs/server/error-formatting",
+    "https://trpc.io/docs/server/routers"
+  ]
+}

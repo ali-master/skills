@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Generate an oRPC contract from an existing OpenAPI specification with Hey API. If you have an [OpenAPI Specification](https://swagger.io/specification/), use [Hey API](https://heyapi.dev/)'s `orpc` plugin to generate an oRPC contract.",
+  "references": [
+    "https://get.heyapi.dev/hey-api/backend",
+    "https://heyapi.dev/",
+    "https://swagger.io/specification/"
+  ]
+}

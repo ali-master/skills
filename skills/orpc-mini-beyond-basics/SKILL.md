@@ -1,9 +1,11 @@
 ---
 name: Mini oRPC Beyond the Basics
 description: Advanced features you can implement in Mini oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Beyond the Basics of Mini oRPC

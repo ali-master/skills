@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "A plugin that blocks invalid requests before they reach your server. Ensures only valid requests are sent to your server. Especially useful for applications that depend on server-side validation.",
+  "references": []
+}

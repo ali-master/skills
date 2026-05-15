@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Add basic CSRF protection to your oRPC application. Helps ensure requests originate from JavaScript code, not from HTML forms or direct browser navigation.",
+  "references": []
+}

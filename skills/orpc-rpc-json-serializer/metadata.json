@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Extend or override the standard RPC JSON serializer. Handles JSON payloads for the [RPC Protocol](/docs/advanced/rpc-protocol) and supports [native data types](/docs/rpc-handler#supported-data-types).",
+  "references": []
+}

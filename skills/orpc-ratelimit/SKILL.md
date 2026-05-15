@@ -1,9 +1,11 @@
 ---
 name: oRPC Rate Limit
 description: Rate limiting for oRPC with multiple storage backend support.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Rate Limit

@@ -1,9 +1,11 @@
 ---
 name: oRPC Extend Body Parser
 description: Extend the body parser for larger payloads or additional data types.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Extend Body Parser

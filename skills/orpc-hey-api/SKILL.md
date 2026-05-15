@@ -1,9 +1,11 @@
 ---
 name: oRPC Hey API Integration
 description: Generate oRPC contracts from OpenAPI with Hey API or adapt a Hey API client.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Hey API Integration

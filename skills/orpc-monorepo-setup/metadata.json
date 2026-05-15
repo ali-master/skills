@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "The most efficient way to set up a monorepo with oRPC. This guide shows how to efficiently set up a monorepo with oRPC while maintaining end-to-end type safety.",
+  "references": [
+    "https://github.com/middleapi/orpc-multiservice-monorepo-playground",
+    "https://pnpm.io/workspaces#workspace-protocol-workspace",
+    "https://www.typescriptlang.org/docs/handbook/project-references.html"
+  ]
+}

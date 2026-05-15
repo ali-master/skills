@@ -1,9 +1,11 @@
 ---
 name: oRPC Expanding OpenAPI Link Types
 description: Extend OpenAPILink to support additional data types beyond JSON's native capabilities.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Expanding Type Support for OpenAPI Link

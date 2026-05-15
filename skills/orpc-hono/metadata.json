@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC inside a Hono project. [Hono](https://honojs.dev/) is a high-performance web framework built on Fetch API.",
+  "references": [
+    "https://honojs.dev/"
+  ]
+}

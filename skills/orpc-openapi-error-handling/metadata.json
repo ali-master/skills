@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Handle errors in your OpenAPI-compliant oRPC APIs. Aligns error responses with OpenAPI standards.",
+  "references": []
+}

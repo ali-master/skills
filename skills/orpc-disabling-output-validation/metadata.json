@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Disable output validation for improved performance while keeping OpenAPI spec generation. By default, oRPC validates procedure outputs against their defined schemas. If you only define output schemas for [OpenAPI specification generation](/docs/openapi/openapi-specification), you can disable output validation to improve performance.",
+  "references": []
+}

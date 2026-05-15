@@ -1,9 +1,11 @@
 ---
 name: oRPC Ecosystem
 description: Community resources, starter kits, tools, and libraries for oRPC.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Ecosystem

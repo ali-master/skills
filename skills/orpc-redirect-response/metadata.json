@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Standard HTTP redirect response in oRPC OpenAPI. Return a standard HTTP redirect response in oRPC OpenAPI.",
+  "references": [
+    "https://orpc.dev"
+  ]
+}

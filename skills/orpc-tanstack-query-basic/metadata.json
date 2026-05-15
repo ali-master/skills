@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Basic guide to integrating oRPC with TanStack Query (legacy). Lightweight integration with [TanStack Query](https://tanstack.com/query/latest).",
+  "references": [
+    "https://tanstack.com/query/latest"
+  ]
+}

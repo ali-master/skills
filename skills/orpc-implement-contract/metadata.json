@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Implement a contract for contract-first development in oRPC. After defining your contract, implement it in your server code. oRPC enforces your contract at runtime.",
+  "references": []
+}

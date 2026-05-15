@@ -1,9 +1,11 @@
 ---
 name: oRPC Hibernation Plugin
 description: Plugin to fully leverage Hibernation APIs in oRPC server (Cloudflare Websocket Hibernation, etc).
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Hibernation Plugin

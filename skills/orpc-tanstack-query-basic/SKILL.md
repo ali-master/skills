@@ -1,9 +1,11 @@
 ---
 name: oRPC TanStack Query Basic
 description: Basic guide to integrating oRPC with TanStack Query (legacy).
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # TanStack Query Integration (Basic)

@@ -1,9 +1,11 @@
 ---
 name: oRPC OpenAPI Error Handling
 description: Handle errors in your OpenAPI-compliant oRPC APIs.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # OpenAPI Error Handling

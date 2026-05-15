@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Utilities for parsing form data and handling validation errors with bracket notation support. Form data helpers provide utilities for parsing HTML form data and extracting validation error messages, with full support for [bracket notation](/docs/openapi/bracket-notation).",
+  "references": []
+}

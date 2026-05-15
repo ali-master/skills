@@ -1,9 +1,11 @@
 ---
 name: oRPC Scalar (Swagger)
 description: Create a beautiful API client for your oRPC with Scalar.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Scalar (Swagger)

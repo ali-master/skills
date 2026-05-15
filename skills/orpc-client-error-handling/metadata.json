@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Handle errors in a type-safe way in oRPC clients. Handle type-safe errors in oRPC clients using [type-safe error handling](/docs/error-handling#type‐safe-error-handling).",
+  "references": []
+}

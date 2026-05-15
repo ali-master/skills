@@ -1,9 +1,11 @@
 ---
 name: oRPC OpenAPI JSON Serializer
 description: Extend or override the standard OpenAPI JSON serializer.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # OpenAPI JSON Serializer

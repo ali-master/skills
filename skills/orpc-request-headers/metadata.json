@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Access request headers in oRPC. Injects a `reqHeaders` instance into the `context`, enabling you to read incoming request headers.",
+  "references": []
+}

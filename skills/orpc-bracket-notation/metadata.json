@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Represent structured data in limited formats such as URL queries and form data. Bracket Notation encodes structured data in formats with limited syntax, like URL queries and form data. It is used by [OpenAPIHandler](/docs/openapi/openapi-handler) and [OpenAPILink](/docs/openapi/client/openapi-link).",
+  "references": []
+}

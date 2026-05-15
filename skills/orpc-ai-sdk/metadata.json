@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Seamlessly use AI SDK inside your oRPC projects without any extra overhead. [AI SDK](https://ai-sdk.dev/) is a free open-source library for building AI-powered products. You can seamlessly integrate it with oRPC without any extra overhead.",
+  "references": [
+    "https://ai-sdk.dev/",
+    "https://ai-sdk.dev/docs/foundations/tools"
+  ]
+}

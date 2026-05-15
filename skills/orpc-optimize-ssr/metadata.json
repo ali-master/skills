@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Optimize SSR for fullstack frameworks by avoiding unnecessary HTTP self-calls. Optimize SSR with oRPC to eliminate redundant network calls during server rendering.",
+  "references": [
+    "http://placeholder"
+  ]
+}

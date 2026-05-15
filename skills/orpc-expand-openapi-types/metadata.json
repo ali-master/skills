@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Extend OpenAPILink to support additional data types beyond JSON's native capabilities. Extend [OpenAPILink](/docs/openapi/client/openapi-link) to support additional data types using the [Response Validation Plugin](/docs/plugins/response-validation).",
+  "references": []
+}

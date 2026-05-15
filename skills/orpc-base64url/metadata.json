@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Functions to encode and decode base64url strings (URL-safe variant of base64). Base64Url helpers provide functions to encode and decode base64url strings, a URL-safe variant of base64 encoding used in web tokens, data serialization, and APIs.",
+  "references": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Use oRPC inside a React Native project. [React Native](https://reactnative.dev/) integration.",
+  "references": [
+    "https://docs.expo.dev/versions/latest/sdk/expo/#expofetch-api",
+    "https://expo.dev/",
+    "https://github.com/facebook/react-native/issues/27741",
+    "https://reactnative.dev/",
+    "https://reactnative.dev/docs/network"
+  ]
+}

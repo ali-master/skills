@@ -1,9 +1,11 @@
 ---
 name: oRPC File Upload/Download
 description: Upload and download files using oRPC with standard File and Blob objects.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # File Operations in oRPC

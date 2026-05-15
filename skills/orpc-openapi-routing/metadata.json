@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Configure procedure routing with HTTP methods, paths, and response statuses. By default oRPC uses `POST`, builds paths from router keys, and returns `200` on success.",
+  "references": []
+}

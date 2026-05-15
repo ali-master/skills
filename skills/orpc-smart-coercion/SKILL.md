@@ -1,9 +1,11 @@
 ---
 name: oRPC Smart Coercion Plugin
 description: Automatically converts input values to match schema types without manual coercion logic.
+license: MIT
 metadata:
   author: Ali Torki
   homepage: https://github.com/ali-master
+  version: "1.0.0"
 ---
 
 # Smart Coercion Plugin

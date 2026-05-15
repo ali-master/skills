@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Ali Torki",
+  "date": "May 2026",
+  "abstract": "Create a beautiful API client for your oRPC with Scalar. Generate a stunning API client for your oRPC using [Scalar](https://github.com/scalar/scalar) and the [OpenAPI Specification](/docs/openapi/openapi-specification).",
+  "references": [
+    "https://cdn.jsdelivr.net/npm/@scalar/api-reference",
+    "https://github.com/scalar/scalar"
+  ]
+}

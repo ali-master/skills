@@ -1,9 +1,11 @@
 ---
 name: better-notify
 description: Context and API guidance for Better Notify — end-to-end typed notification infrastructure for Node.js
+license: MIT
 metadata:
   author: betternotify
   homepage: https://better-notify.com
+  version: "1.0.0"
 ---
 
 # Better Notify
