@@ -2,7 +2,7 @@
 name: oRPC Publish Client to NPM
 description: How to publish your oRPC client to NPM as an SDK.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

@@ -2,7 +2,7 @@
 name: oRPC Durable Iterator Integration
 description: Extends Event Iterator with durable event streams, automatic reconnections, and event recovery.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

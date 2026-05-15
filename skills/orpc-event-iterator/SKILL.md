@@ -2,7 +2,7 @@
 name: oRPC Event Iterator (SSE)
 description: Streaming responses, real-time updates, and server-sent events using oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

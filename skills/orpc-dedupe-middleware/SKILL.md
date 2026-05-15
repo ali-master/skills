@@ -2,7 +2,7 @@
 name: oRPC Dedupe Middleware
 description: Enhance oRPC middleware performance by avoiding redundant executions.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

@@ -2,7 +2,7 @@
 name: oRPC Request Headers Plugin
 description: Access request headers in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

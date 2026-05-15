@@ -2,7 +2,7 @@
 name: oRPC Nuxt.js Adapter
 description: Use oRPC inside a Nuxt.js project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

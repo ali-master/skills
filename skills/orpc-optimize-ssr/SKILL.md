@@ -2,7 +2,7 @@
 name: oRPC Optimize SSR
 description: Optimize SSR for fullstack frameworks by avoiding unnecessary HTTP self-calls.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

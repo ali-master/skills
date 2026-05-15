@@ -2,7 +2,7 @@
 name: oRPC No Throw Literal
 description: Always throw Error instances instead of literal values.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

@@ -2,7 +2,7 @@
 name: oRPC Monorepo Setup
 description: The most efficient way to set up a monorepo with oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

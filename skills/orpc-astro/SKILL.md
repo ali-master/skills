@@ -2,7 +2,7 @@
 name: oRPC Astro Adapter
 description: Use oRPC inside an Astro project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

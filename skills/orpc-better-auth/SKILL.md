@@ -2,7 +2,7 @@
 name: oRPC Better Auth Integration
 description: Use Better Auth inside your oRPC projects without any extra overhead.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

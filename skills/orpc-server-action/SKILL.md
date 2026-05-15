@@ -2,7 +2,7 @@
 name: oRPC Server Action
 description: Integrate oRPC procedures with React Server Actions.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

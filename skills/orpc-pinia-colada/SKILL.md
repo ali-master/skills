@@ -2,7 +2,7 @@
 name: oRPC Pinia Colada Integration
 description: Seamlessly integrate oRPC with Pinia Colada for Vue.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

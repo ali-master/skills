@@ -2,7 +2,7 @@
 name: oRPC Playgrounds
 description: Interactive development environments for exploring and testing oRPC functionality.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

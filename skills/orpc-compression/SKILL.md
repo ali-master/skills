@@ -2,7 +2,7 @@
 name: oRPC Compression Plugin
 description: A plugin for oRPC that compresses response bodies to reduce bandwidth usage.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

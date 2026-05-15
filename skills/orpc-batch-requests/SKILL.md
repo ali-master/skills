@@ -2,7 +2,7 @@
 name: oRPC Batch Requests Plugin
 description: A plugin for oRPC to batch requests and responses to reduce overhead.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

@@ -2,7 +2,7 @@
 name: oRPC Ecosystem
 description: Community resources, starter kits, tools, and libraries for oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

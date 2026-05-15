@@ -2,7 +2,7 @@
 name: oRPC TanStack Start Adapter
 description: Use oRPC inside a TanStack Start project with server routes, isomorphic links, and SSR optimization.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

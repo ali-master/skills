@@ -2,7 +2,7 @@
 name: oRPC Retry After Plugin
 description: Automatically retries requests based on server Retry-After headers.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

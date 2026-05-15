@@ -2,7 +2,7 @@
 name: oRPC RPC Handler
 description: Comprehensive Guide to the RPCHandler in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

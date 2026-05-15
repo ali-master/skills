@@ -2,7 +2,7 @@
 name: oRPC React SWR Integration
 description: Integrate oRPC with React SWR for efficient data fetching and caching.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

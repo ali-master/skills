@@ -2,7 +2,7 @@
 name: oRPC tRPC Integration
 description: Use oRPC features (OpenAPI specs, OpenAPIHandler) inside existing tRPC applications via @orpc/trpc.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

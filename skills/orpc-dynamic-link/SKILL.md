@@ -2,7 +2,7 @@
 name: oRPC DynamicLink
 description: Dynamically switch between multiple oRPC's links.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

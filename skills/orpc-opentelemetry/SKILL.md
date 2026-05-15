@@ -2,7 +2,7 @@
 name: oRPC OpenTelemetry Integration
 description: Integrate oRPC with OpenTelemetry for distributed tracing.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

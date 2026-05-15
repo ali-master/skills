@@ -2,7 +2,7 @@
 name: oRPC Response Headers Plugin
 description: Set response headers in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

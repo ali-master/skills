@@ -2,7 +2,7 @@
 name: oRPC Cookie Helpers
 description: Functions for managing HTTP cookies in web applications.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

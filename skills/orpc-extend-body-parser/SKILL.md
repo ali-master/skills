@@ -2,7 +2,7 @@
 name: oRPC Extend Body Parser
 description: Extend the body parser for larger payloads or additional data types.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

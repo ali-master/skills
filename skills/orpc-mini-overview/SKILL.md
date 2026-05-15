@@ -2,7 +2,7 @@
 name: Mini oRPC Overview
 description: A simplified version of oRPC designed for learning purposes.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

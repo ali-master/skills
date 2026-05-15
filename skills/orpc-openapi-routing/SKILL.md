@@ -2,7 +2,7 @@
 name: oRPC OpenAPI Routing
 description: Configure procedure routing with HTTP methods, paths, and response statuses.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

@@ -2,7 +2,7 @@
 name: oRPC Getting Started
 description: Quick guide to oRPC — define procedures, handle errors, integrate with popular frameworks.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

@@ -2,7 +2,7 @@
 name: oRPC React Native Adapter
 description: Use oRPC inside a React Native project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

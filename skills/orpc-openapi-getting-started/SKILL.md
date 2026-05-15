@@ -2,7 +2,7 @@
 name: oRPC OpenAPI Getting Started
 description: Quick guide to OpenAPI in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

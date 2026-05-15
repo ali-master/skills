@@ -2,7 +2,7 @@
 name: oRPC Svelte Kit Adapter
 description: Use oRPC inside a Svelte Kit project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

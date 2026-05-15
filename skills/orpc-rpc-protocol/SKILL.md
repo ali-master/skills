@@ -2,7 +2,7 @@
 name: oRPC RPC Protocol
 description: Learn about the RPC protocol used by RPCHandler.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

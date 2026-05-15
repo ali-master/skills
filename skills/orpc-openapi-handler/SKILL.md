@@ -2,7 +2,7 @@
 name: oRPC OpenAPI Handler
 description: Comprehensive Guide to the OpenAPIHandler in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

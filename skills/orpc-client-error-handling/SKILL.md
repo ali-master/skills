@@ -2,7 +2,7 @@
 name: oRPC Client Error Handling
 description: Handle errors in a type-safe way in oRPC clients.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

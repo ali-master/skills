@@ -2,7 +2,7 @@
 name: oRPC SuperJson
 description: Replace the default oRPC RPC serializer with SuperJson.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

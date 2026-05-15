@@ -2,7 +2,7 @@
 name: oRPC Request Validation Plugin
 description: A plugin that blocks invalid requests before they reach your server.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

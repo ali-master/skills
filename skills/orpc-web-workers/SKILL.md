@@ -2,7 +2,7 @@
 name: oRPC Web Workers Adapter
 description: Type-safe oRPC communication between the main thread and Web Workers via the Message Port adapter.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

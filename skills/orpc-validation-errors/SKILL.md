@@ -2,7 +2,7 @@
 name: oRPC Validation Errors
 description: Customize built-in input/output validation errors using client interceptors or middleware, with type-safe error mapping.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

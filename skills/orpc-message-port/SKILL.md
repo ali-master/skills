@@ -2,7 +2,7 @@
 name: oRPC Message Port
 description: Using oRPC with Message Ports for internal communication between processes.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

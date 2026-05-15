@@ -177,6 +177,9 @@ Each skill is a folder under [`skills/`](./skills/) containing a `SKILL.md` with
 ---
 name: My Skill
 description: One-line summary the agent uses to decide when to load this skill.
+metadata:
+  author: Ali Torki
+  homepage: https://github.com/ali-master
 ---
 
 # My Skill
@@ -184,17 +187,55 @@ description: One-line summary the agent uses to decide when to load this skill.
 Practical, focused guidance the agent can act on.
 ````
 
+### Frontmatter fields
+
+| Field                 | Required | Purpose                                                                                |
+| --------------------- | -------- | -------------------------------------------------------------------------------------- |
+| `name`                | ✅       | Display label shown to the agent. Must be ≤ 64 characters.                             |
+| `description`         | ✅       | One-line summary the agent uses to decide whether to load the skill.                   |
+| `metadata.author`     | ✅       | Skill author (defaults to `Ali Torki` for skills in this repo).                        |
+| `metadata.homepage`   | ✅       | Author homepage (defaults to `https://github.com/ali-master`).                         |
+
+### Nested skills
+
+Skills can ship sub-skills. Drop additional `SKILL.md` files inside the parent folder — both the generator and the metadata script recurse into them:
+
+```text
+skills/
+├── better-notify/
+│   ├── SKILL.md                    # parent: index + overview
+│   ├── setup/SKILL.md              # sub-skill: setup wizard
+│   └── best-practices/SKILL.md     # sub-skill: best practices
+```
+
+The catalog renders nested slugs as `parent/child` so they sort next to their parent.
+
+### Helper scripts
+
+```sh
+bun run skills:metadata   # backfill the standard metadata block on every SKILL.md (idempotent)
+bun run skills:table      # regenerate the catalog table in README.md
+```
+
 Keep skills tight — agents pull them into the context window, so brevity wins. See [`docs/authoring.md`](docs/authoring.md) for the full checklist.
 
 ## 🤝 Contributing
 
 1. Fork & branch.
-2. Add a new directory under `skills/` with a `SKILL.md`.
-3. Run `bun run scripts/generate-skills-table.ts` so the catalog stays in sync.
-4. Open a PR.
+2. Add a new directory under `skills/` with a `SKILL.md` (top-level **or** nested under an existing skill).
+3. Run `bun run skills:metadata` to apply the standard `metadata` block.
+4. Run `bun run skills:table` so the catalog stays in sync.
+5. Open a PR.
 
 The skill `name` in frontmatter must be ≤ 64 characters.
 
-## 📄 License
+---
 
-[MIT](LICENSE) © [ali-master](https://github.com/ali-master)
+<div align="center">
+
+**[⬆ Back to Top](#usestrict-skills)**
+
+Made with ❤️ by [Ali Torki](https://github.com/ali-master)
+
+</div>
+

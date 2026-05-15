@@ -2,7 +2,7 @@
 name: better-notify/best-practices
 description: Quick reference for Better Notify configuration, patterns, and common gotchas
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

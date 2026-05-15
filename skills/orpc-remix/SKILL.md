@@ -2,7 +2,7 @@
 name: oRPC Remix Adapter
 description: Use oRPC inside a Remix project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

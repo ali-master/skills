@@ -2,7 +2,7 @@
 name: oRPC Client-Side Clients
 description: Call your oRPC procedures remotely as if they were local functions.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

@@ -2,7 +2,7 @@
 name: oRPC Publisher
 description: Listen and publish events with resuming support in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

@@ -2,7 +2,7 @@
 name: oRPC Elysia Adapter
 description: Use oRPC inside an Elysia project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

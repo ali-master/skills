@@ -2,7 +2,7 @@
 name: oRPC Router to Contract
 description: Convert a router into a contract, export it safely, and prevent internal exposure.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

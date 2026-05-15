@@ -2,7 +2,7 @@
 name: oRPC Comparison
 description: How oRPC differs from tRPC, ts-rest, and Hono.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

@@ -2,7 +2,7 @@
 name: oRPC OpenAPI Specification
 description: Generate OpenAPI specifications for oRPC with ease.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

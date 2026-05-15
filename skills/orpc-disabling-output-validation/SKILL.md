@@ -2,7 +2,7 @@
 name: oRPC Disabling Output Validation
 description: Disable output validation for improved performance while keeping OpenAPI spec generation.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

@@ -2,7 +2,7 @@
 name: oRPC Pino Integration
 description: Integrate oRPC with Pino for structured logging and request tracking.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

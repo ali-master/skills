@@ -2,7 +2,7 @@
 name: Mini oRPC Client-side Client
 description: How to implement client-side RPC calls in Mini oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

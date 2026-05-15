@@ -2,7 +2,7 @@
 name: oRPC Fastify Adapter
 description: Use oRPC inside a Fastify project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

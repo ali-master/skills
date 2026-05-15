@@ -2,7 +2,7 @@
 name: oRPC Middleware
 description: Middleware enables reusable and extensible procedures in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

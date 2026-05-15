@@ -2,7 +2,7 @@
 name: oRPC Signing Helpers
 description: Cryptographically sign and verify data using HMAC-SHA256.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

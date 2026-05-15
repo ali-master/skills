@@ -2,7 +2,7 @@
 name: oRPC Input/Output Structure
 description: Control how input and output data is structured in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

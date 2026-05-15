@@ -2,7 +2,7 @@
 name: oRPC HTTP Adapter
 description: How to use oRPC over HTTP with various server and client adapters.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

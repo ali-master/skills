@@ -2,7 +2,7 @@
 name: oRPC TanStack Query Basic
 description: Basic guide to integrating oRPC with TanStack Query (legacy).
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

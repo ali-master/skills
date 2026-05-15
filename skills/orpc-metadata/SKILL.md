@@ -2,7 +2,7 @@
 name: oRPC Metadata
 description: Enhance your procedures with metadata.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

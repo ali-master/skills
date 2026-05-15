@@ -2,7 +2,7 @@
 name: oRPC Hono Adapter
 description: Use oRPC inside a Hono project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

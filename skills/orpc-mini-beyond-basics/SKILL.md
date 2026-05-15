@@ -2,7 +2,7 @@
 name: Mini oRPC Beyond the Basics
 description: Advanced features you can implement in Mini oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

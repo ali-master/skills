@@ -2,7 +2,7 @@
 name: oRPC Testing & Mocking
 description: Test oRPC procedures using server-side clients, and mock implementations for frontend testing.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

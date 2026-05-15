@@ -2,7 +2,7 @@
 name: Mini oRPC Server-side Client
 description: How to turn a procedure into a callable function in Mini oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

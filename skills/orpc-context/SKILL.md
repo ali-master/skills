@@ -2,7 +2,7 @@
 name: oRPC Context
 description: Type-safe dependency injection pattern in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

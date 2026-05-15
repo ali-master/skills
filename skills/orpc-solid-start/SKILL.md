@@ -2,7 +2,7 @@
 name: oRPC Solid Start Adapter
 description: Use oRPC inside a Solid Start project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

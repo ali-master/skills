@@ -2,7 +2,7 @@
 name: oRPC Bracket Notation
 description: Represent structured data in limited formats such as URL queries and form data.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

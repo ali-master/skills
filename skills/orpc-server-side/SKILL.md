@@ -2,7 +2,7 @@
 name: oRPC Server-Side Clients
 description: Call your oRPC procedures in the same environment as your server like native functions.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

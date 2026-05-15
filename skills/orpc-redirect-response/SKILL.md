@@ -2,7 +2,7 @@
 name: oRPC Redirect Response
 description: Standard HTTP redirect response in oRPC OpenAPI.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

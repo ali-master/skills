@@ -2,7 +2,7 @@
 name: oRPC TanStack Query Integration
 description: Seamlessly integrate oRPC with TanStack Query (React, Vue, Solid, Svelte, Angular).
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

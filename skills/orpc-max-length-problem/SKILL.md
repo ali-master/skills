@@ -2,7 +2,7 @@
 name: oRPC Exceeds Maximum Length Problem
 description: How to address the Exceeds the Maximum Length Problem in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

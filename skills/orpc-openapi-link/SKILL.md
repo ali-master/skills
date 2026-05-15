@@ -2,7 +2,7 @@
 name: oRPC OpenAPILink
 description: Use OpenAPILink in oRPC clients to communicate with OpenAPI-compliant APIs.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

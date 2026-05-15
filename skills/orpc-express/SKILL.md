@@ -2,7 +2,7 @@
 name: oRPC Express.js Adapter
 description: Use oRPC inside an Express.js project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

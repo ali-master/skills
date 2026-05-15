@@ -2,7 +2,7 @@
 name: oRPC Strict GET Method Plugin
 description: Only procedures explicitly accepting GET can be called via HTTP GET (CSRF protection).
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

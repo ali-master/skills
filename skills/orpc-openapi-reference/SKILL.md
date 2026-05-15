@@ -2,7 +2,7 @@
 name: oRPC OpenAPI Reference Plugin
 description: Plugin that serves API reference documentation (Scalar/Swagger) and the OpenAPI specification.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

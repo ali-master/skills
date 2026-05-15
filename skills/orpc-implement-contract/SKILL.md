@@ -2,7 +2,7 @@
 name: oRPC Implement Contract
 description: Implement a contract for contract-first development in oRPC.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

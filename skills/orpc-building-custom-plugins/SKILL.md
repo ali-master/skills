@@ -2,7 +2,7 @@
 name: oRPC Building Custom Plugins
 description: Create powerful custom plugins to extend oRPC handlers and links with interceptors.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

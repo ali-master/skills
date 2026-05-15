@@ -2,7 +2,7 @@
 name: oRPC Procedure
 description: Understanding procedures in oRPC — standard functions with validation, middleware, and DI.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

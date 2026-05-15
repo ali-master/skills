@@ -12,7 +12,7 @@ const SKILLS_DIR = `${ROOT}/skills`
 
 const METADATA_BLOCK = [
   'metadata:',
-  '  author: Ali Tokir',
+  '  author: Ali Torki',
   '  homepage: https://github.com/ali-master',
 ].join('\n')
 

@@ -2,7 +2,7 @@
 name: oRPC File Upload/Download
 description: Upload and download files using oRPC with standard File and Blob objects.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

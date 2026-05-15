@@ -2,7 +2,7 @@
 name: oRPC Base64Url Helpers
 description: Functions to encode and decode base64url strings (URL-safe variant of base64).
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

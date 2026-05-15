@@ -2,7 +2,7 @@
 name: oRPC Next.js Adapter
 description: Use oRPC inside a Next.js project (App Router and Pages Router).
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

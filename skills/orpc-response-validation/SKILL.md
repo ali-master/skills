@@ -2,7 +2,7 @@
 name: oRPC Response Validation Plugin
 description: Validate server responses against the contract schema.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 

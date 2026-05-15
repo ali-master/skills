@@ -2,7 +2,7 @@
 name: oRPC H3 Adapter
 description: Use oRPC inside an H3 project.
 metadata:
-  author: Ali Tokir
+  author: Ali Torki
   homepage: https://github.com/ali-master
 ---
 
